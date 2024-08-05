@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniyal Ahmed</h1>
 
 <h3 align="center">I am learning "web and mobile application development"</h3>
-- 💻 I’m currently working on **HTML5** and **CSS3** Technologies.
+- 💻 I’m currently working on **HTML5** and **CSS3** Technologies
 
 - 👉 How to reach me: <a href="mailto:da9096544@gmail.com">da9096544@gmail.com@gmail.com</a>
 
