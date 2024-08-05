@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Daniyal Ahmed</h1>
+<h1>Hi 👋, I'm Daniyal Ahmed</h1>
 
-<h3 align="center">I am learning "web and mobile application development"</h3>
+<h3>I am learning "web and mobile application development"</h3>
 - 💻 I’m currently working on **HTML5** and **CSS3** Technologies
 
-- 👉 How to reach me: <a href="mailto:da9096544@gmail.com">da9096544@gmail.com@gmail.com</a>
+- 🤜🏻 How to reach me: <a href="mailto:da9096544@gmail.com">da9096544@gmail.com@gmail.com</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
