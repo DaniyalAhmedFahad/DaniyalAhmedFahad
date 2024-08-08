@@ -3,7 +3,7 @@
 <h3>I am learning "web and mobile application development"</h3>
 💻 I’m currently working on **HTML5** and **CSS3** Technologies
 
-🤜🏻 How to reach me: <a href="mailto:da9096544@gmail.com">da9096544@gmail.com@gmail.com</a>
+🤜🏻 How to reach me: <a href="mailto:daniyalahmedstarkid@gmail.com">daniyalahmedstarkid@gmail.com</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
