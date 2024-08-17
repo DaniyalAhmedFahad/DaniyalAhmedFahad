@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=FF8000&center=true&vCenter=true&width=665&height=55&lines=%E2%9C%A8Hey%2C+I'm+Asharib+Ali%E2%9C%A8;%E2%9C%A8Passionate+Developer.+Designer.+Manager%E2%9C%A8;%E2%9C%A8Switching+the+Web2+users+to+Web3%E2%9C%A8;%E2%9C%A8Building+%26+Empowering+the+Community%E2%9C%A8;%E2%9C%A8Follow+to+Become+a+Web3+Developer%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=FF8000&center=true&vCenter=true&width=665&height=55&lines=%E2%9C%A8Hey%2C+I'm+Daniyal+Ahmed%E2%9C%A8;%E2%9C%A8Learning+Web+Development%E2%9C%A8;%E2%9C%A8Increasing+my+knowledge%E2%9C%A8;%E2%9C%A8Follow+to+Become+a+Member+Of+My+Journey%E2%9C%A8)](https://git.io/typing-svg)
 
 <h3>I am learning "web and mobile application development"</h3>
 💻 I’m currently working on **HTML5** and **CSS3** Technologies
